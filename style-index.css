@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(199, 179, 123, 0.644);
+}
+h2 {
+    color: rgba(88, 72, 36, 0.801);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    color: rgba(88, 72, 36, 0.801);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: rgba(88, 72, 36, 0.801);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    width: 260px;
+    float: center;
+    border-color: #503c1fbd;
+    border-width: 6px;
+    border-style:ridge;
+}

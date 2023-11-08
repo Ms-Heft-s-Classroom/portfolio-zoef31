@@ -1,0 +1,30 @@
+img {
+    width: 260px;
+    float: left;
+    border-color: #e2c1f2;
+    border-width: 6px;
+    border-style:ridge;
+      
+  }
+  body {
+    background-color: #66668a;
+    text-align:center;
+  }
+  
+  h1{
+    font-family:monospace;
+      color: #e2c1f2;
+    font-size: 35px;
+    
+  }
+  
+  h3 {
+    font-family:monospace;
+    color: #e2c1f2;
+    font-size: 25px;
+  }
+  
+  h2 {
+    font-family:monospace;
+    color: #e2c1f2
+  }
